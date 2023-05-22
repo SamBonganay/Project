@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Acvitity 4 (Bonganay)", "Acvitity 4 (Bonganay).vbproj", "{226C1F3A-E98D-4C2C-A4BC-E43CB6856378}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8293273C-52F9-43FD-BE3A-B7249D695961}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226C1F3A-E98D-4C2C-A4BC-E43CB6856378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226C1F3A-E98D-4C2C-A4BC-E43CB6856378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226C1F3A-E98D-4C2C-A4BC-E43CB6856378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226C1F3A-E98D-4C2C-A4BC-E43CB6856378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6872E85-3FA6-42B5-ACEA-29DC6E79E52B}
+	EndGlobalSection
+EndGlobal
